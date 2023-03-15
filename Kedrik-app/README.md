@@ -20,4 +20,5 @@ We will start with a few domestic cars once the UI and core logic
  * [Nodejs](https://nodejs.org/en/)
  * [TypeScript](https://www.typescriptlang.org/)
  * [JavaScript](https://www.javascript.com/)
-
+ * [Boostrap](https://getbootstrap.com/)
+ * [esLint](https://eslint.org/)
